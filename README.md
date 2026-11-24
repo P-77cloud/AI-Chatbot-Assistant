@@ -80,16 +80,6 @@ Built as a hands-on project to learn AI integration, conversational agents, and 
 ---
 
 ⭐ If you find this project useful, consider giving this repository a star!
-## 📸 Project Screenshots
-
-### 1. AI Chatbot Interface
-<img src="screenshots/chatbot-preview-1.png" width="100%" alt="AI Chatbot Interface">
-
-### 2. AI-Generated Response
-<img src="screenshots/chatbot-preview-2.png" width="100%" alt="AI Generated Response">
-
-### 3. Detailed AI Response
-<img src="screenshots/chatbot-preview-3.png" width="100%" alt="Detailed AI Response">
 
 
 
